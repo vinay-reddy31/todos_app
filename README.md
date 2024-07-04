@@ -12,7 +12,8 @@ Once you cloned the repository you can run
 Deployed Live Project Link: https://todos-app-gules.vercel.app/
 
 
-**Added Features and Functionality**
+## Added Features and Functionality
+\
 **Add Task:** Users should be able to input a task into a text field and add it to the list by pressing a button.\
 **View Tasks:** Display all added tasks in a list format.\
 **Delete Task:** Each task should have a delete button that, when clicked, removes the task from the list.\
