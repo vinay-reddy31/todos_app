@@ -5,11 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Note: 
 Once you cloned the repository you can run
-npm install -> to install all necessary dependencies
-npm start -> to see live project
+**npm install** -> to install all necessary dependencies &&
+**npm start** -> to see live project
 
 
 Live Project Link: https://todos-app-gules.vercel.app/
+
+
 
 ## Available Scripts
 
