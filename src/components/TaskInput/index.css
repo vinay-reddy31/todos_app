@@ -1,0 +1,87 @@
+.bg-container {
+    padding: 34px;
+  }
+  
+  .todos-bg-container {
+    background-color: #f9fbfe;
+    height: 100vh;
+  }
+  
+  .todos-heading {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 46px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .create-task-heading {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .create-task-heading-subpart {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 500;
+  }
+  
+  .todo-items-heading {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .todo-user-input {
+    background-color: white;
+    width: 80%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+    margin-right: 12px;
+  }
+  
+  .button {
+    color: white;
+    background-color: #4c63b6;
+    font-family: 'Roboto';
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  
+  .save-edit-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  .save-button{
+    height:44px;
+    width:160px;
+  }
+  
+  .todo-items-heading-subpart {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 500;
+  }
+  
+  .todo-list {
+    padding: 0;
+    margin: 0;
+  }
